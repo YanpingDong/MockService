@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPattern": "/data/2/2.4/lookup/airing\\.\\(\\*,person.image:type=:first\\)/.*/credits;isCast=true\\?page=.*&size=.*&by=role"
+    },
+    "response": {
+        "status": 200,
+		"headers" : {
+                         "Content-Type" : "application/json; charset=utf-8"
+                    },
+        "bodyFileName": "data_airing_credits_cast_response.json",
+		"fixedDelayMilliseconds": 0
+	}
+}

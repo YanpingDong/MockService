@@ -1,0 +1,15 @@
+{
+	"matchStartAndEndCharacter":"sss,eee",
+    "request": {
+        "method": "GET",
+        "urlPattern": "/data/2/2.4/lookup/test/[0-9]*"
+    },
+    "response": {
+        "status": 200,
+		"headers" : {
+                         "Content-Type" : "application/json; charset=utf-8"
+                    },
+        "bodyFileName": "data_airing_credits_cast.json",
+		"fixedDelayMilliseconds": 17
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPattern": "/data/2/2.4/lookup/source/.*\\?idns="
+    },
+    "response": {
+        "status": 200,
+		"headers" : {
+                         "Content-Type" : "application/json; charset=utf-8"
+                    },
+        "bodyFileName": "data_source_response.json",
+		"fixedDelayMilliseconds": 0
+	}
+}

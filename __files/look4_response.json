@@ -1,0 +1,362 @@
+{
+  "iterator_status" : "T2pFd0xFTTdNVEE3TVRBd0xqQT0K",
+  "exhausted" : "n",
+  "places" : [ {
+    "name" : "Ralphs",
+    "distance" : 13180.248,
+    "enhanced_contents" : {
+      "business_url" : "www.ralphs.com"
+    },
+    "location" : {
+      "city" : "Aliso Viejo",
+      "coordinate" : {
+        "latitude" : 33.571736,
+        "longitude" : -117.723492
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "26901 Aliso Creek Rd, Aliso Viejo, CA 92656, USA",
+      "postal" : "92656",
+      "house_number" : "26901",
+      "state" : "CA",
+      "street" : "Aliso Creek Rd",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "3623727",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Whole Foods Market",
+    "distance" : 14006.886,
+    "enhanced_contents" : {
+      "business_url" : "www.wholefoodsmarket.com"
+    },
+    "location" : {
+      "city" : "Laguna Niguel",
+      "coordinate" : {
+        "latitude" : 33.555452,
+        "longitude" : -117.712895
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "23932 Aliso Creek Rd, Laguna Niguel, CA 92677, USA",
+      "postal" : "92677",
+      "house_number" : "23932",
+      "state" : "CA",
+      "street" : "Aliso Creek Rd",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    }, {
+      "name" : "Food Markets",
+      "code" : "AKJ",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "9005830",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Vons",
+    "distance" : 12726.816,
+    "enhanced_contents" : {
+      "business_url" : "www.vons.com"
+    },
+    "location" : {
+      "city" : "Laguna Niguel",
+      "coordinate" : {
+        "latitude" : 33.570287,
+        "longitude" : -117.713865
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "27320 Alicia Pkwy, Laguna Niguel, CA 92677, USA",
+      "postal" : "92677",
+      "house_number" : "27320",
+      "state" : "CA",
+      "street" : "Alicia Pkwy",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "4489244",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Ralphs",
+    "distance" : 13621.948,
+    "enhanced_contents" : {
+      "business_url" : "www.ralphs.com"
+    },
+    "location" : {
+      "city" : "Laguna Niguel",
+      "coordinate" : {
+        "latitude" : 33.557566,
+        "longitude" : -117.709218
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "27871 La Paz Rd, Laguna Niguel, CA 92677, USA",
+      "postal" : "92677",
+      "house_number" : "27871",
+      "state" : "CA",
+      "street" : "La Paz Rd",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "3625921",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Trader Joe's",
+    "distance" : 12731.831,
+    "enhanced_contents" : {
+      "business_url" : "www.traderjoes.com"
+    },
+    "location" : {
+      "city" : "Aliso Viejo",
+      "coordinate" : {
+        "latitude" : 33.577081,
+        "longitude" : -117.723304
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "26541 Aliso Creek Rd, Aliso Viejo, CA 92656, USA",
+      "postal" : "92656",
+      "house_number" : "26541",
+      "state" : "CA",
+      "street" : "Aliso Creek Rd",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "6435531",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Kinnikinnick Foods",
+    "distance" : 12594.155,
+    "enhanced_contents" : {
+      "business_url" : "consumer.kinnikinnick.com/"
+    },
+    "location" : {
+      "city" : "Laguna Niguel",
+      "coordinate" : {
+        "latitude" : 33.567913,
+        "longitude" : -117.707724
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "27271 La Paz Rd, Laguna Niguel, CA 92677, USA",
+      "postal" : "92677",
+      "house_number" : "27271",
+      "state" : "CA",
+      "street" : "La Paz Rd",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "3491999",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Stater Bros Markets",
+    "distance" : 12153.161,
+    "enhanced_contents" : {
+      "business_url" : "www.staterbros.com"
+    },
+    "location" : {
+      "city" : "Aliso Viejo",
+      "coordinate" : {
+        "latitude" : 33.572444,
+        "longitude" : -117.707098
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "26892 La Paz Rd, Aliso Viejo, CA 92656, USA",
+      "postal" : "92656",
+      "house_number" : "26892",
+      "state" : "CA",
+      "street" : "La Paz Rd",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "6430511",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Kinnikinnick Foods",
+    "distance" : 11915.656,
+    "enhanced_contents" : {
+      "business_url" : "consumer.kinnikinnick.com/"
+    },
+    "location" : {
+      "city" : "Aliso Viejo",
+      "coordinate" : {
+        "latitude" : 33.570877,
+        "longitude" : -117.700022
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "27001 Moulton Pkwy, Aliso Viejo, CA 92656, USA",
+      "postal" : "92656",
+      "house_number" : "27001",
+      "state" : "CA",
+      "street" : "Moulton Pkwy",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "8313663",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Albertsons Bakery",
+    "distance" : 16891.188,
+    "enhanced_contents" : {
+      "business_url" : "www.albertsons.com"
+    },
+    "location" : {
+      "city" : "Laguna Niguel",
+      "coordinate" : {
+        "latitude" : 33.527024,
+        "longitude" : -117.716657
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "29941 Alicia Pkwy, Laguna Niguel, CA 92677, USA",
+      "postal" : "92677",
+      "house_number" : "29941",
+      "state" : "CA",
+      "street" : "Alicia Pkwy",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "4951891",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  }, {
+    "name" : "Fresh & Easy Neighborhood Mkt",
+    "distance" : 14312.338,
+    "enhanced_contents" : {
+      "business_url" : "www.freshandeasy.com/"
+    },
+    "location" : {
+      "city" : "Laguna Niguel",
+      "coordinate" : {
+        "latitude" : 33.54234,
+        "longitude" : -117.691271
+      },
+      "country_code" : "USA",
+      "country" : "USA",
+      "formatted_address" : "28985 Golden Lantern, Laguna Niguel, CA 92677, USA",
+      "postal" : "92677",
+      "house_number" : "28985",
+      "state" : "CA",
+      "street" : "Golden Lantern",
+      "type" : "street"
+    },
+    "categories" : [ {
+      "name" : "Grocery Stores",
+      "code" : "AKD",
+      "parent_category" : {
+        "code" : "AK",
+        "name" : "Shopping/Retail"
+      }
+    } ],
+    "phones" : [ {
+      "type" : "primary",
+      "number" : "4955057",
+      "country" : "1",
+      "area" : "949"
+    } ]
+  } ]
+} 

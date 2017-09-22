@@ -1,0 +1,15 @@
+{
+	"matchStartAndEndCharacter":"2222,1111",
+    "request": {
+        "method": "GET",
+        "urlPattern": "/data/2/2.4/lookup/airing/[0-9]*"
+    },
+    "response": {
+        "status": 200,
+		"headers" : {
+                         "Content-Type" : "application/json; charset=utf-8"
+                    },
+        "bodyFileName": "data_airing_response.json",
+		"fixedDelayMilliseconds": 17
+	}
+}
