@@ -1,7 +1,17 @@
 # MockService
 在做微服务的时候，常常会出现A服务依赖B服务，而很可能这个时候B服务并没有完成。那么我们如何进行B服务的测试呢？最直接的想法即是做一个假的B服务用来模拟B服务的功能。
 
+[TOC]
+
 而MockService的主要功能即是去模拟一个未完成的假服务。
+
+---------------------------------------
+
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
+
+Use the `printf()` function.
 
 ### 代码块
 ``` python
@@ -29,13 +39,11 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 ### 流程图
 ```flow
 st=>start: Start
-e=>end
-op=>operation: My Operation
+e=>end: End
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
 cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
+io=>inputoutput: catch something...
 ```
 
 以及时序图:
